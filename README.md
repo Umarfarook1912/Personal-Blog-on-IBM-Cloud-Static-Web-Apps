@@ -17,12 +17,12 @@ This is a user-friendly travel blog website that allows travellers to share thei
 - Hosting: [Cloud Service]
 
 ## Getting Started
-1. Clone the repository: ‘git clone https://github.com/yourusername/travel-blog-website.git’
+1. Clone the repository: ‘git clone https://github.com/Umarfarook1912/Personal-Blog-on-IBM-Cloud-Static-Web-Apps.git’
 2. Install dependencies: ‘npm install’
 
 ## Navigating the Website
 - To access the website, open your web browser and go to [http://localhost:port] (or the live demo URL if deployed).
-- Start exploring and sharing your travel experiences.
+- Start exploring and sharing your travel experiences.	
 
 ## Dependencies
 Make sure you have the following dependencies installed:
